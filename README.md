@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashok @ash2code
-- 👀 I’m interested in AWS DevOps
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in Cloud Engineering 
+- 🌱 I’m currently learning Cloud automation with Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: (He/Him)
